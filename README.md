@@ -29,7 +29,7 @@ With the [`auto_upgrade`](https://packagecontrol.io/docs/settings#setting-auto_u
 
 ## Settings
 
-Please refer to the official documentation in order to tweak the, [SublimeLinter settings](http://sublimelinter.readthedocs.org/en/latest/settings.html) or [linter settings](http://sublimelinter.readthedocs.org/en/latest/linter_settings.html).
+Please refer to the official documentation in order to tweak the [SublimeLinter settings](http://sublimelinter.readthedocs.org/en/latest/settings.html) or [linter settings](http://sublimelinter.readthedocs.org/en/latest/linter_settings.html).
 
 ## License
 
