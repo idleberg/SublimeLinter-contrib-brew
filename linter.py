@@ -20,7 +20,9 @@ class Brew(Linter):
     """Provides an interface to the Brew executable."""
 
     cmd = ('brew', 'audit', '--strict', '--display-filename', '${file}')
-    syntax = 'ruby'
+    defaults = {
+        'selector': 'source.ruby'
+    }
     regex = (
         r'^(?P<file>.+): \* C: (?P<line>\d+): col (?P<col>\d+): (?P<message>.+)$'
     )
