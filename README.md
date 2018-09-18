@@ -1,22 +1,24 @@
-SublimeLinter-contrib-brew
-==========================
+# SublimeLinter-contrib-brew
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/SublimeLinter-contrib-brew.svg?style=flat-square)](https://packagecontrol.io/packages/SublimeLinter-contrib-brew)
 [![GitHub](https://img.shields.io/github/release/idleberg/SublimeLinter-contrib-brew.svg?style=flat-square)](https://github.com/idleberg/SublimeLinter-contrib-brew/releases)
 [![Travis CI](https://img.shields.io/travis/idleberg/SublimeLinter-contrib-brew/master.svg?style=flat-square)](https://travis-ci.org/idleberg/SublimeLinter-contrib-brew)
 
-This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [brew](https://brew.sh). It will be used with Homebrew formulas.
+This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [brew](https://brew.sh). It will be used with [Homebrew formulas](https://docs.brew.sh/Formula-Cookbook).
+
+## Prerequisites
+
+1. Make sure you already have [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) installed
+2. Ensure that `brew` is installed on your system and available in your [PATH environmental variable](http://sublimelinter.readthedocs.io/en/latest/troubleshooting.html#finding-a-linter-executable).
 
 ## Installation
 
-SublimeLinter must be installed in order to use this plugin.
+1. Make sure you already have [Package Control](https://packagecontrol.io/) installed
+2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
+3. Type *“SublimeLinter-contrib-brew”* and press <kbd>Enter</kbd>
 
-Please use [Package Control](https://packagecontrol.io) to install the linter plugin.
-
-Before installing this plugin, you must ensure that `brew` is installed on your system.
-
-In order for `brew` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. The docs cover [troubleshooting PATH configuration](http://sublimelinter.readthedocs.io/en/latest/troubleshooting.html#finding-a-linter-executable).
+With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 
 ## Settings
 
