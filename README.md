@@ -20,7 +20,7 @@ This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeL
 2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
 3. Type *“SublimeLinter-contrib-brew”* and press <kbd>Enter</kbd>
 
-With [`auto_upgrade`](https://packagecontrol.io/docs/settings#setting-auto_upgrade) enabled, Package Control will keep all installed packages up-to-date!
+With the [`auto_upgrade`](https://packagecontrol.io/docs/settings#setting-auto_upgrade) setting enabled, Package Control will keep all installed packages up-to-date!
 
 ### Using Git
 
