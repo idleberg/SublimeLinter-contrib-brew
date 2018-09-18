@@ -14,13 +14,24 @@ This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeL
 
 ## Installation
 
+### Package Control
+
 1. Make sure you have [Package Control](https://packagecontrol.io/) installed
 2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
 3. Type *“SublimeLinter-contrib-brew”* and press <kbd>Enter</kbd>
 
-With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
+With [auto_upgrade](https://packagecontrol.io/docs/settings#setting-auto_upgrade) enabled, Package Control will keep all installed packages up-to-date!
+
+### Using Git
+
+1. Change to your Sublime Text `Packages` directory
+2. Clone repository `git clone https://github.com/idleberg/SublimeLinter-contrib-brew.git SublimeLinter-contrib-brew`
 
 ## Settings
 
 - SublimeLinter settings: http://sublimelinter.readthedocs.org/en/latest/settings.html
 - Linter settings: http://sublimelinter.readthedocs.org/en/latest/linter_settings.html
+
+## License
+
+This work is licensed under the [The MIT License](LICENSE).
