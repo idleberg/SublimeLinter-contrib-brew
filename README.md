@@ -9,12 +9,12 @@ This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeL
 
 ## Prerequisites
 
-1. Make sure you already have [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) installed
+1. Make sure you have [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) installed
 2. Ensure that `brew` is installed on your system and available in your [PATH environmental variable](http://sublimelinter.readthedocs.io/en/latest/troubleshooting.html#finding-a-linter-executable).
 
 ## Installation
 
-1. Make sure you already have [Package Control](https://packagecontrol.io/) installed
+1. Make sure you have [Package Control](https://packagecontrol.io/) installed
 2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
 3. Type *“SublimeLinter-contrib-brew”* and press <kbd>Enter</kbd>
 
