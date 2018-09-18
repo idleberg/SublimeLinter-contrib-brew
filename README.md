@@ -34,4 +34,4 @@ With the [`auto_upgrade`](https://packagecontrol.io/docs/settings#setting-auto_u
 
 ## License
 
-This work is licensed under the [The MIT License](LICENSE).
+This work is licensed under the [The MIT License](LICENSE)
