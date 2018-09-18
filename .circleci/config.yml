@@ -32,7 +32,7 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
-            flake8 linter.py --max-line-length=120 --ignore=D211
+            flake8 linter.py --max-line-length=120
             pep257 linter.py --ignore=D202,D211
 
       - store_artifacts:
