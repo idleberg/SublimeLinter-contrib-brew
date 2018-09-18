@@ -10,7 +10,7 @@ This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeL
 ## Prerequisites
 
 1. Make sure you have [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) installed
-2. Ensure that `brew` is installed on your system and available in your [PATH environmental variable](http://sublimelinter.readthedocs.io/en/latest/troubleshooting.html#finding-a-linter-executable).
+2. Ensure that `brew` is installed on your system and available in your [PATH environmental variable](http://sublimelinter.readthedocs.io/en/latest/troubleshooting.html#finding-a-linter-executable)
 
 ## Installation
 
