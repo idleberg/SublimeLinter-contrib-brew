@@ -3,7 +3,7 @@
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/blue)](https://opensource.org/licenses/MIT)
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/SublimeLinter-contrib-brew.svg?style=flat-square)](https://packagecontrol.io/packages/SublimeLinter-contrib-brew)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/SublimeLinter-contrib-brew)](https://github.com/idleberg/SublimeLinter-contrib-brew/releases)
-[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/generator-atom-package-coffeescript)](https://circleci.com/gh/idleberg/generator-atom-package-coffeescript)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/generator-atom-package-coffeescript)](https://circleci.com/gh/idleberg/SublimeLinter-contrib-brew)
 
 This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [brew](https://brew.sh). It will be used with [Homebrew formulas](https://docs.brew.sh/Formula-Cookbook).
 
